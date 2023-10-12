@@ -1,0 +1,49 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: burlywood
+}
+
+.topMenu {
+display: flex;
+flex-direction: row;
+background-color: skyblue;
+justify-content: space-around;
+}
+
+.menu {
+  color: black;
+  margin: 10px;
+}
+
+.underl {
+  text-decoration: underline;
+}
+
+p{
+  margin-left: 10px;
+}
+
+h2 {
+  font-style: italic;
+}
+
+table {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 25px;
+}
+
+.ism {
+  margin-left: 10px;
+}
+
+h1 {
+  color: mediumvioletred;
+}
+
+h3 {
+  margin-left: 10px;
+}
